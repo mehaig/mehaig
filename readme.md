@@ -1,4 +1,4 @@
-# 👋 Hello there!
+## 👋 Hello there!
 
 ## 🌟 About Me
 My Name is Mihai. I'm a **Full Stack Developer** passionate about building web applications with a wide array of technologies. 
