@@ -11,5 +11,4 @@ My Name is Mihai. I'm a **Full Stack Developer** passionate about building web a
   - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
   - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehaig&show_icons=true&theme=radical)
+
